@@ -47,3 +47,12 @@ This README is designed to bridge the gap between complex chemical engineering a
 ​Data Visualization: Real-time tracking of manipulated vs. referenced variables ensures the simulation converges within a 0.0001 tolerance.
 
 ​🧪 Simulation Results
+Component         Inlet     Fraction     Product (Recycle)       Status
+Triolein (Oil)    0.016     0.9559       (Liquid Phase)         Recovered
+Water             0.901     0.0306       (Liquid Phase)         Stripped
+Oleic Acid (FFA) 0.000      0.0082         (Liquid Phase)        Controlled
+
+🚀 Future Roadmap
+​Vacuum Degassing: Implement a vacuum flash to further reduce oxidative rancidity.
+​Economic Analysis: Integrate DWSIM's costing tool to calculate exact ROI for the heat exchanger installation.
+​Sensitivity Analysis: Map the relationship between frying temperature and FFA production rates.
