@@ -27,6 +27,8 @@ This README is designed to bridge the gap between complex chemical engineering a
 ​Chemical Reaction: Modeled the hydrolysis of Triolein into Oleic Acid and Glycerol.
 ​Stoichiometry: 1 \text{ Triolein} + 3 \text{ Water} \rightarrow 1 \text{ Glycerol} + 3 \text{ Oleic Acid}.
 ​Optimization: Adjusted conversion rates to a realistic 1% per pass to simulate industrial degradation without crashing the mass balance.
+<img width="244" height="279" alt="first stage with Feed and mixer" src="https://github.com/user-attachments/assets/c0f98c44-0c8a-4911-8a55-3e2a0e621b49" />
+
 
 ​2. Separation & Recovery Loop
 
