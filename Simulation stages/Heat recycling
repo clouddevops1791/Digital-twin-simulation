@@ -1,0 +1,6 @@
+​5. The Heat Exchanger (E1): Energy Integration
+​The most critical stage for the 15% cost reduction target is the Heat Exchanger.
+​Engineering Reason: The watervapour exiting the separator at 450 K carries massive latent heat.
+By cross-flowing this vapor against the cold 298.15 K incoming water/starch feed, we "pre-fry" the material.
+​The Logic: This reduces the thermal load on the main fryer heater (RCONV-1 duty), significantly cutting electricity
+or gas consumption and directly hitting the industrial sustainability KPI.
