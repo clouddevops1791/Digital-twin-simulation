@@ -1,0 +1,8 @@
+​2. The Conversion Reactor (RCONV-1): Simulating Degradation
+​This is the heart of the simulation where the "frying" occurs at 450 K.
+​Engineering Reason: We utilize a Conversion Reactor to model the chemical breakdown of Triolein into Oleic Acid (FFA) and Glycerol via hydrolysis.
+​The Logic: By setting the conversion to a realistic 1%, we avoid the "steam generator" error (where all oil is lost) and instead create a stream 
+that accurately represents "Used Frying Oil,
+" allowing us to track the Free Fatty Acid levels essential for UK Food Production safety standards.
+
+Refer to image at the readme section of this project
