@@ -7,7 +7,7 @@ This README is designed to bridge the gap between complex chemical engineering a
 ​Integrated Oil Recovery & Process Optimization in Industrial Food Production
 
 ​📌 Project Overview
-​Developed a high-fidelity digital twin of a continuous potato chip frying process using DWSIM. The project focuses on industrial sustainability, specifically addressing oil degradation (FFA tracking), waste heat recovery, and circular mass loops to meet the 2027 UK Food Production efficiency targets.
+​Developed a high-fidelity digital twin of a continuous potato chip frying process using DWSIM. The project focuses on industrial sustainability, specifically addressing oil degradation (FFA tracking), waste heat recovery, and circular mass loops to meet the 2026 UK Food Production efficiency targets.
 
 
 ​🎯 Key Performance Indicators (KPIs)
@@ -36,10 +36,16 @@ This README is designed to bridge the gap between complex chemical engineering a
 ​Solid Management: Employs a Component Separator to isolate starch fines (Starch1) from the liquid phase.
 ​Refining: A simulated Bleaching Unit removes pigments and FFA to regenerate food-grade oil.
 
+<img width="244" height="279" alt="conversion reactor" src="https://github.com/user-attachments/assets/05ab86a4-963a-43a4-b628-34920833c96b" />
+
 ​3. Energy Integration
 
 ​Heat Exchanger (E1): Cross-flows high-temperature waste vapor against the incoming 298.15 K starch/water feed.
 ​Impact: Significantly lowers the heater duty required in the fryer, directly contributing to the 15% cost reduction goal.
+
+<img width="556" height="402" alt="heat exchanger" src="https://github.com/user-attachments/assets/7963c6e5-4b56-4434-bb42-45de78368440" />
+<img width="366" height="402" alt="final cleaned oil" src="https://github.com/user-attachments/assets/183f2ab5-d0e7-44d9-87d9-fd2cd1bb6fa9" />
+
 
 ​📈 Process Control & Automation
 
