@@ -64,3 +64,6 @@ Oleic Acid (FFA) 0.000      0.0082         (Liquid Phase)        Controlled
 ​Vacuum Degassing: Implement a vacuum flash to further reduce oxidative rancidity.
 ​Economic Analysis: Integrate DWSIM's costing tool to calculate exact ROI for the heat exchanger installation.
 ​Sensitivity Analysis: Map the relationship between frying temperature and FFA production rates.
+
+​Project Conclusion & Summary
+​Through the use of Adjust Blocks and iterative Secant Methods, this project demonstrates how a digital twin can predict the exact point where oil recycling and heat recovery intersect to maximize profit while minimizing environmental footprint.
