@@ -1,0 +1,10 @@
+​3. The Multi-Phase Separation Stage: SVLE Logic
+​After the reactor, the stream contains vapor (steam), liquid (oil), and solids (starch).
+​Solid Separation (Starch1): The reactor is configured to divert the 450 K solids immediately. This prevents burnt fines from re-circulating, 
+which would otherwise accelerate oil rancidity.
+​Gas-Liquid Separator (V-1): The remaining stream enters a Flash vessel.
+​Engineering Reason: Operating at approximately 202,057 Pa, this vessel strips the high-pressure water vapor from the liquid oil. High water 
+content in recycled oil leads to "foaming" 
+and equipment corrosion; removing it here is a prerequisite for a high-purity recycle loop.
+
+refer to the readme section pf this project for images 
